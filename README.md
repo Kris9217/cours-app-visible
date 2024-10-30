@@ -12,5 +12,5 @@
 
 - **Frontend** : React, Axios pour les requêtes API.
 - **Backend** : Node.js, Express.
-- **Base de données** : (Mentionnez votre choix si vous avez une base de données, ou laissez comme "Mock data").
+- **Base de données** : mock data.
 - **Styles** : CSS basique avec possibilité de personnalisation.
