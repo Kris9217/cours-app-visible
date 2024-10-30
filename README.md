@@ -14,3 +14,8 @@
 - **Backend** : Node.js, Express.
 - **Base de données** : mock data.
 - **Styles** : CSS basique avec possibilité de personnalisation.
+
+
+## Auteur
+
+Développé par Kris9217 (Sionneau Christopher).
